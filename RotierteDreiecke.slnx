@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RotierteDreiecke/RotierteDreiecke.vcxproj" Id="21c2a9cc-1599-43c5-aab1-eb4ce1eae841">
+    <Deploy />
+  </Project>
+</Solution>
